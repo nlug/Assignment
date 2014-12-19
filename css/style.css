@@ -136,3 +136,6 @@ blockquote {
 	background-color: #ad4844;
 	border: 0px;
 }
+p {
+	text-indent: 8px;
+}
