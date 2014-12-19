@@ -50,6 +50,7 @@ body {
 }
 .content {
 	background-color: white;
+	padding-top: 20px;
 	padding-bottom: 20px;
 }
 .nav {
@@ -75,15 +76,15 @@ body {
 .main-nav li.active a {
 	color: #ff726d;
 }
-.main-nav .nav {
+/*.main-nav .nav {
 	display: none;
-}
+}*/
 .main-nav .nav li {
-	padding-left: 10px;
+	padding-left: 15px;
 }
-.main-nav .active .nav {
+/*.main-nav .active .nav {
 	display: block;
-}
+}*/
 .sidebar {
 	position: relative;
 }
@@ -91,6 +92,7 @@ body {
 	width: 100%;
 	position: absolute;
 	top: 10px;
+	padding-right: 27px;
 }
 .gotop {
 	position: fixed;
